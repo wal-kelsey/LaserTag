@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LaserTag</string>
+    <string name="to_instructions_button">Instructions</string>
+    <string name="welcome_content">Welcome\nto\nLASER TAG</string>
+    <string name="play_button">PLAY!</string>
+    <string name="instructions_content">INSTRUCTIONS\nFOR\nLASER TAG</string>
+
+</resources>
